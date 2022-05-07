@@ -3,8 +3,8 @@
 
 
  <img src="http://mazandi.herokuapp.com/api?handle={jangdm37}&theme=warm"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blueberrycake27)](https://github.com/Blueberrycake27/github-readme-stats)  
-#
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blueberrycake27)](https://github.com/Blueberrycake27/github-readme-stats)
 
