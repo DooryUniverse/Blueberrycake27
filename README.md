@@ -23,6 +23,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&amp;style=for-the-badge&amp;logo=Git&amp;logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&amp;style=for-the-badge&amp;logo=Visual%20Studio%20Code&amp;logoColor=white)
 
- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jangdm37">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jangdm37">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jangdm37" height="165">
 
