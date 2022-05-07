@@ -2,7 +2,7 @@
 #
 
 ![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jangdm37})](https://solved.ac/{jangdm37})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangdm37)](https://solved.ac/jangdm37)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blueberrycake27)](https://github.com/Blueberrycake27/github-readme-stats)  
 
