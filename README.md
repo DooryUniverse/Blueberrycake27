@@ -7,3 +7,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blueberrycake27)](https://github.com/Blueberrycake27/github-readme-stats)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
