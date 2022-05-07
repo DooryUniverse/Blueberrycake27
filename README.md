@@ -1,11 +1,17 @@
-### Who Am I
+[![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://github.com/Blueberrycake27) <a href="https://blog.naver.com/jangdm37"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jangdm37@gmail.com)[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://www.instagram.com/blueberry__37/)   
 
+### Who Am I
 
 - 🌱 I’m currently learning Coding
 - 🥇 I majored in Economics,Biology
 - 🚅 My hometown is Yangpyeong, Gyeong-gi-do in Korea
 
-[![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://github.com/Blueberrycake27) <a href="https://blog.naver.com/jangdm37"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jangdm37@gmail.com)[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://www.instagram.com/blueberry__37/)   
+
+### What I Like
+
+- ⚽ Soccer
+- 🐓 Chicken
+
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jangdm37">  
 
