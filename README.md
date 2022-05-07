@@ -24,6 +24,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&amp;style=for-the-badge&amp;logo=Visual%20Studio%20Code&amp;logoColor=white)
 
  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jangdm37">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blueberrycake27)](https://github.com/Blueberrycake27/github-readme-stats)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=jangdm37" height="165">
 
