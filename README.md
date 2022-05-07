@@ -9,6 +9,19 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blueberrycake27)](https://github.com/Blueberrycake27/github-readme-stats)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangdm37)](https://solved.ac/jangdm37/)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlueberrycake27&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Blueberrycake27)
+
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangdm37)](https://solved.ac/jangdm37/)
+# 💪Skills
+### Platforms &amp; Languages
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&amp;style=for-the-badge&amp;logo=MySQL&amp;logoColor=white)
+
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&amp;style=for-the-badge&amp;logo=Git&amp;logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&amp;style=for-the-badge&amp;logo=Visual%20Studio%20Code&amp;logoColor=white)
+
+ 
